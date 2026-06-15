@@ -15,4 +15,4 @@ languages, engines, to understand how they actually work.
 | [blue-team-toolkit](https://github.com/mstampfli/blue-team-toolkit) | menu-driven defensive toolkit for CCDC-style exercises |
 | [librechat-agent](https://github.com/mstampfli/librechat-agent) | terminal coding agent for LibreChat-hosted LLMs |
 
-mstampfli.com, under construction.
+Live at [mstampfli.com](https://mstampfli.com).
