@@ -8,7 +8,7 @@ languages, engines, to understand how they actually work.
 | project | what it is |
 |---|---|
 | [makaos](https://github.com/mstampfli/makaos) | x86-64 OS from scratch: UEFI boot, a 4-way SMP kernel, ~118 syscalls, TCP/IP, ext2 + FAT32, pledge/unveil sandboxing, bash + DOOM, sway desktop (WIP) |
-| [Maka-compiler](https://github.com/mstampfli/Maka-compiler) | compiler for Maka, the outstanding, safe, and revolutionary language, typechecked, compiles to C |
+| [maka](https://github.com/mstampfli/maka) | from-scratch systems language: explicit ownership, attr/has structural traits, inline error propagation, compiles to C |
 | [maka-design](https://github.com/mstampfli/maka-design) | the Maka design system: warm, earthy, retro-terminal. one stylesheet, every site |
 | [voxelG](https://github.com/mstampfli/voxelG) | GPU-raymarched voxel engine in Rust/WGSL, hierarchical DDA, Gerstner water, lock-free TCP multiplayer |
 | [sekiro-coop](https://github.com/mstampfli/sekiro-coop) | seamless two-player co-op mod for Sekiro, in Rust |
