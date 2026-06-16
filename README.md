@@ -17,6 +17,6 @@ languages, engines, to understand how they actually work.
 | [seccard](https://github.com/mstampfli/seccard) | security report card for a domain: TLS, headers, email/DNS, graded a-f with fixes |
 | [cve2detect](https://github.com/mstampfli/cve2detect) | turn a CVE into defenses: Sigma + Nuclei rules, version checks, repro, KEV/EPSS triage |
 | [codecard](https://github.com/mstampfli/codecard) | security report card for a codebase: SAST, IaC, secrets, KEV/EPSS-ranked deps |
-| [wgsl-poison](https://github.com/mstampfli/wgsl-mod-repro) | root-caused a WGSL/naga OpSRem poison bug; fix PR to wgpu + a WebGPU CTS test |
+| [wgsl-poison](https://github.com/mstampfli/wgsl-mod-repro) | root-caused a WGSL/naga OpSRem poison bug. Test merged into the WebGPU Conformance Test Suite ([gpuweb/cts#4665](https://github.com/gpuweb/cts/pull/4665)); fix proposed to wgpu ([#9674](https://github.com/gfx-rs/wgpu/pull/9674)) |
 
 Live at [mstampfli.com](https://mstampfli.com).
